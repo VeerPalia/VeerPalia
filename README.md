@@ -48,11 +48,12 @@
 
 ---
 
-## 🧠 Top Languages
+## 🧠 Core Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerPalia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" />
-</p>
+- Java • Kotlin • PHP • JavaScript  
+- Flutter • React • Node.js  
+- MySQL • Firebase  
+- UI/UX Design (Figma)
 
 ---
 
