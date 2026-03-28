@@ -59,9 +59,9 @@
 
 ## 🚀 Projects
 
-- 📱 Smart Recipe Generator App  
-- 🧠 Advanced Quiz App (Firebase)  
-- 🎨 3D UI & Animation Apps  
+- 📱 Smart Digital Gramin Vikas System  
+- 🤖 PitchNest (Firebase)  
+- 🎨 QuizQuest App  
 
 ---
 
