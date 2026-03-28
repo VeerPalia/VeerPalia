@@ -49,11 +49,12 @@
 
 ---
 
-## 🧠 Top Languages:
+## 🧠 Top Skills:
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerPalia&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
-</p>
+![Java](https://img.shields.io/badge/Java-90%25-orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-80%25-purple)
+![PHP](https://img.shields.io/badge/PHP-85%25-blue)
+![JavaScript](https://img.shields.io/badge/JS-75%25-yellow)
 
 ---
 
