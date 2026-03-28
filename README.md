@@ -1,83 +1,102 @@
-<h1 align="center">Hi 👋, I'm Veer Palia</h1>
-<h3 align="center">🚀 Passionate App Developer | Designer | Tech Enthusiast</h3>
+<!-- ================= HEADER ================= -->
 
----
-
-## 🧑‍💻 About Me:
-- 🔭 I’m currently working on **Advanced Android & Web Projects**
-- 🌱 Learning **Cloud, DevOps & AI/ML**
-- 💡 Love creating **3D UI / Animated Apps**
-- 🎯 Goal: Become **High Salary Tech Specialist**
-- ⚡ Fun fact: I prefer **Design over Coding 😎**
-
----
-
-## 🌐 Connect With Me:
-<p align="left">
-<a href="https://github.com/VeerPalia" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
-
----
-
-## 💻 Tech Stack:
-![Dart](https://skillicons.dev/icons?i=dart)
-![HTML](https://skillicons.dev/icons?i=html)
-![Java](https://skillicons.dev/icons?i=java)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![PHP](https://skillicons.dev/icons?i=php)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Express](https://skillicons.dev/icons?i=express)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Figma](https://skillicons.dev/icons?i=figma)
-![GitHub](https://skillicons.dev/icons?i=github)
-
----
-
-## 📊 GitHub Stats:
+<h1 align="center">🚀 Veer Palia</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VeerPalia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VeerPalia&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=App+Developer;UI%2FUX+Designer;Tech+Enthusiast;Future+Cloud+%26+AI+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VeerPalia&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Top Skills:
+<!-- ================= ABOUT ================= -->
 
-![Java](https://img.shields.io/badge/Java-90%25-orange)
-![Kotlin](https://img.shields.io/badge/Kotlin-80%25-purple)
-![PHP](https://img.shields.io/badge/PHP-85%25-blue)
-![JavaScript](https://img.shields.io/badge/JS-75%25-yellow)
+## 🧑‍💻 About Me
 
----
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🚀 Featured Projects:
-- 🔥 Smart Recipe Generator App  
-- 📱 Advanced Quiz App with Firebase  
-- 🎨 3D Animated UI Apps  
+- 🔭 Working on **Advanced Android & Web Apps**
+- 🌱 Learning **Cloud ☁️ | DevOps ⚙️ | AI 🤖**
+- 🎨 Passionate about **3D UI & Animations**
+- 🎯 Goal: **High Salary Tech Career**
+- ⚡ Fun Fact: *Design > Coding 😎*
 
 ---
 
-## 🏆 Achievements:
-- 🧠 Built multiple real-world apps  
-- 🎯 Strong UI/UX + Backend Knowledge  
-- 🚀 Fast Learner & Creative Thinker  
+<!-- ================= TECH STACK ================= -->
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,html,java,kotlin,php,firebase,express,flutter,laravel,nodejs,react,mysql,sqlite,figma,github" />
+</p>
 
 ---
 
-## 👀 Profile Views:
-![](https://komarev.com/ghpvc/?username=VeerPalia&color=blue)
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VeerPalia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=VeerPalia&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerPalia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
 
 ---
 
-## ⚡ Fun Section:
-```diff
-+ Code. Design. Repeat.
-+ Build Something Awesome 🚀
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+✨ **Smart Recipe Generator App**  
+📱 AI-based ingredient suggestion  
+
+✨ **Advanced Quiz App**  
+🔥 Firebase + Real-time features  
+
+✨ **3D Portfolio App**  
+🎨 Smooth animations + UI focus  
+
+---
+
+<!-- ================= SKILLS ================= -->
+
+## 🧠 Skills Progress
+
+![Java](https://img.shields.io/badge/Java-90%25-orange?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-85%25-purple?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-80%25-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JS-75%25-yellow?style=for-the-badge)
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VeerPalia&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<!-- ================= ACTIVITY ================= -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeerPalia&theme=tokyo-night"/>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<h3 align="center">🔥 "Code. Design. Build. Repeat." 🔥</h3>
