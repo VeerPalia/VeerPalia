@@ -1,14 +1,82 @@
+<h1 align="center">Hi 👋, I'm Veer Palia</h1>
+<h3 align="center">🚀 Passionate App Developer | Designer | Tech Enthusiast</h3>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeerPalia&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VeerPalia&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeerPalia&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
-[![](https://visitcount.itsvg.in/api?id=VeerPalia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me:
+- 🔭 I’m currently working on **Advanced Android & Web Projects**
+- 🌱 Learning **Cloud, DevOps & AI/ML**
+- 💡 Love creating **3D UI / Animated Apps**
+- 🎯 Goal: Become **High Salary Tech Specialist**
+- ⚡ Fun fact: I prefer **Design over Coding 😎**
+
+---
+
+## 🌐 Connect With Me:
+<p align="left">
+<a href="https://github.com/VeerPalia" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+![Dart](https://skillicons.dev/icons?i=dart)
+![HTML](https://skillicons.dev/icons?i=html)
+![Java](https://skillicons.dev/icons?i=java)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![PHP](https://skillicons.dev/icons?i=php)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Express](https://skillicons.dev/icons?i=express)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Figma](https://skillicons.dev/icons?i=figma)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VeerPalia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VeerPalia&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
+
+---
+
+## 🧠 Top Languages:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerPalia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+## 🚀 Featured Projects:
+- 🔥 Smart Recipe Generator App  
+- 📱 Advanced Quiz App with Firebase  
+- 🎨 3D Animated UI Apps  
+
+---
+
+## 🏆 Achievements:
+- 🧠 Built multiple real-world apps  
+- 🎯 Strong UI/UX + Backend Knowledge  
+- 🚀 Fast Learner & Creative Thinker  
+
+---
+
+## 👀 Profile Views:
+![](https://komarev.com/ghpvc/?username=VeerPalia&color=blue)
+
+---
+
+## ⚡ Fun Section:
+```diff
++ Code. Design. Repeat.
++ Build Something Awesome 🚀
